@@ -1,9 +1,9 @@
 {
   // editor
   "editor.wordWrap": "on",
-  "editor.fontSize": 18,
-  "editor.lineHeight": 30,
-  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 20,
+  "editor.tabSize": 4,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
   "editor.minimap.enabled": false,
@@ -14,7 +14,7 @@
   "explorer.compactFolders": false,
 
   // workbench
-  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreview": true,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Omni",
 
